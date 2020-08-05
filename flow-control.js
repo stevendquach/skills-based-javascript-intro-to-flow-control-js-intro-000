@@ -33,6 +33,6 @@ switch (age) {
     break;
   default:
     "You have an age"
-  
+
 }
 }
